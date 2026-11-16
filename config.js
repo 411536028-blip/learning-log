@@ -7,6 +7,5 @@
 
 window.APP_CONFIG = {
   SUPABASE_URL: "https://erpwcoomvmhqlwqrtegx.supabase.co",
-  SUPABASE_KEY: "sb_publishable_6ELhaEtNzTxAgiJCTrTmfw_r0-5JAjZ
-"
+  SUPABASE_KEY: "sb_publishable_6ELhaEtNzTxAgiJCTrTmfw_r0-5JAjZ"
 };
